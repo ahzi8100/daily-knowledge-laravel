@@ -1,17 +1,16 @@
 {
-    "name": "Laravel Package Tutorial",
-    "short_name": "LPT",
-    "start_url": "/index.php",
+    "name": "Daily Knowledge App",
+    "short_name": "DKA",
     "background_color": "#6777ef",
-    "description": "Tutorial of Laravel Package",
     "display": "fullscreen",
+    "description": "A Progressive Web Application setup for Laravel projects.",
     "theme_color": "#6777ef",
+    "start_url": "/",
     "icons": [
         {
             "src": "logo.png",
             "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
+            "type": "image/png"
         }
     ]
 }
